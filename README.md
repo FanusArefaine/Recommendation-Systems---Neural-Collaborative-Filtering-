@@ -45,4 +45,3 @@ I am using top 10 recommendation results as an evaluation metric. To evaluate th
    -	For each user, examine if the holdout is included in the top 10 recommendations
    -	Finally, evaluate the model based on how many holdout steam video games are included in top 10 recommendations for all the users. 
 
-Due to their underlying differences, it is natural for these three model configurations to have different performance. Here is how each model performed: 
