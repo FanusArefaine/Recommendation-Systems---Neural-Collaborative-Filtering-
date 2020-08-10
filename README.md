@@ -1,6 +1,5 @@
 # Recommendation-Systems---Neural-Collaborative-Filtering
 
-# Recommendation-Systems---Neural-Collaborative-Filtering-
 
 ## 1.0	Model Selection
 
